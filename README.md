@@ -77,7 +77,7 @@ sudo tmux new-session -s script "bash steady.sh -t"
 ```
 
 ## 📍 باتشکر 📍
-[ITEAM](https://telegram.me/iTeam_ir)
+[linkknab](https://telegram.me/linkknab)
 
 ## 🇮🇷 تهیه شده توسط 🇮🇷
 [LuaError](https://telegram.me/LuaError)
