@@ -1,4 +1,4 @@
-# [Tabchi V2.2.1](https://telegram.me/TeleSudo/Tabchi)
+# [Tabchi V2.2.1](https://telegram.me/zanziba/tabchi2)
 
 * * *
 
@@ -56,7 +56,7 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 #کد نصب بوت
 cd $HOME
-git clone https://github.com/TeleSudo/Tabchi.git
+git clone https://github.com/zanziba/tabchi2.git
 cd Tabchi
 git clone --recursive https://github.com/janlou/tg.git
 cd tg
